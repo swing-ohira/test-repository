@@ -5,7 +5,7 @@ GitHubの使い方を記事にまとめてみようと思います。
 
 ## 第1章：GitHubとは何か？
 GitとGitHubの違い、基本概念、なぜ使うのか
-
+https://github.com/swing-ohira/test-repository/blob/main/docs/chapter1.md  
 ## 第2章：レポジトリの作成と構成
 レポジトリの作成方法、README.md、フォルダ構成の基本
 
